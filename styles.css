@@ -12,7 +12,7 @@ header{
 	top: 0;
 	height: 750px;
 	padding: 10px 0 0 0;
-	background-color: #00FFF6;
+	background-color: #25BED8;
 
 }
 
@@ -22,7 +22,6 @@ header{
 	width: 50%;
 	margin: 0 auto;
 	height: 100%;
-	color: white;
 }
 
 .hi{
@@ -34,7 +33,7 @@ header{
 	font-size: 15em;
 	float: left;
 	margin: 0px;
-
+	color: white;
 }
 
 .im{
@@ -46,21 +45,17 @@ header{
 	float: left;
 	font-size: 11em;
 	margin: 58px 0 0 0;
-
+	color: white;
 }
 
 .name{
-/*	margin: -30px 0 0 0; 
-	font-size: 15em; 
-	float: left;
-	line-height: 225px;*/
-
 	display: inline-block;
 	float: left;
 	font-size: 13em;
 	width: 100%;
 	margin: -41px 0 0 0;
 	line-height: 167px;
+	color: white;
 }
 
  /*---------------------- Nav Box Format ----------------------*/
@@ -69,7 +64,7 @@ nav{
 	width: 100%; 
 	height: 150px;
 	margin: 0 0 -150px 0; 
-	background-color: #00FFF6;
+	background-color: #25BED8;
 	position: relative;
 	z-index: 150;
 }
@@ -116,6 +111,7 @@ nav ul li img{
 	position: relative;
 	z-index: 100;
 	padding: 150px 0 0 0;
+	background-color: #25BED8;
 }
 
  /*---------------------- Media Queries  ----------------------*/
